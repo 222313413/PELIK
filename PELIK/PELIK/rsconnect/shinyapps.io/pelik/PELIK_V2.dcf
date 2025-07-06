@@ -1,0 +1,13 @@
+name: PELIK_V2
+title: PELIK_V2
+username: pelik
+account: pelik
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15037578
+bundleId: 10572009
+url: https://pelik.shinyapps.io/PELIK_V2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|bahan/[DATA UTAMA] 1. Rekapitulasi Luas Penutupan Lahan Hutan dan Non Hutan Menurut Provinsi Tahun 2014-2023 (Ribu Ha).csv|bahan/chart.pdf|bahan/data.xlsx|bahan/Emisi Karbon (Ton CO2e) Akibat Karhutla Berdasarkan Provinsi di Indonesia Tahun 2018 – 2022.xls|bahan/tropical_jungle.zip|data/data.csv|data/Peta Indonesia - Provinsi.json
