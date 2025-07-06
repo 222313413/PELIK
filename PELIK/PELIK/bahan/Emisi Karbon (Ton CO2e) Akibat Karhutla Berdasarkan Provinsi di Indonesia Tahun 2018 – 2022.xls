@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Emisi Karbon (Ton CO2e) Akibat Karhutla Berdasarkan Provinsi di Indonesia Tahun 2018 – 2022</title>
+</head>
+
+<body>
+    
+    <table border="1" width="100%">
+        <thead>
+            <tr>
+                <th class="text-center align-middle">No</th>
+                <th class="text-center align-middle">Provinsi</th>
+                <th class="text-center align-middle">2018</th>
+                <th class="text-center align-middle">2019</th>
+                <th class="text-center align-middle">2020</th>
+                <th class="text-center align-middle">2021</th>
+                <th class="text-center align-middle">2022</th>
+            </tr>
+        </thead>
+        <tbody>
+
+                            <tr>
+                    <td class="text-center align-middle">1</td>
+                    <td>ACEH</td>
+
+                                            <td class="text-right align-middle">572104</td>
+                                            <td class="text-right align-middle">281520</td>
+                                            <td class="text-right align-middle">361241</td>
+                                            <td class="text-right align-middle">550931</td>
+                                            <td class="text-right align-middle">1013561</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">2</td>
+                    <td>SUMATERA UTARA</td>
+
+                                            <td class="text-right align-middle">2397182</td>
+                                            <td class="text-right align-middle">885018</td>
+                                            <td class="text-right align-middle">1425416</td>
+                                            <td class="text-right align-middle">841901</td>
+                                            <td class="text-right align-middle">1087514</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">3</td>
+                    <td>SUMATERA BARAT</td>
+
+                                            <td class="text-right align-middle">1701825</td>
+                                            <td class="text-right align-middle">1029562</td>
+                                            <td class="text-right align-middle">660876</td>
+                                            <td class="text-right align-middle">1028498</td>
+                                            <td class="text-right align-middle">3790938</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">4</td>
+                    <td>RIAU</td>
+
+                                            <td class="text-right align-middle">37236912</td>
+                                            <td class="text-right align-middle">72081698</td>
+                                            <td class="text-right align-middle">12422996</td>
+                                            <td class="text-right align-middle">8986804</td>
+                                            <td class="text-right align-middle">2496402</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">5</td>
+                    <td>JAMBI</td>
+
+                                            <td class="text-right align-middle">1038931</td>
+                                            <td class="text-right align-middle">29884752</td>
+                                            <td class="text-right align-middle">138961</td>
+                                            <td class="text-right align-middle">126338</td>
+                                            <td class="text-right align-middle">200838</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">6</td>
+                    <td>SUMATERA SELATAN</td>
+
+                                            <td class="text-right align-middle">3699638</td>
+                                            <td class="text-right align-middle">158329629</td>
+                                            <td class="text-right align-middle">612278</td>
+                                            <td class="text-right align-middle">869492</td>
+                                            <td class="text-right align-middle">365957</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">7</td>
+                    <td>BENGKULU</td>
+
+                                            <td class="text-right align-middle">889</td>
+                                            <td class="text-right align-middle">3912</td>
+                                            <td class="text-right align-middle">28985</td>
+                                            <td class="text-right align-middle">10952</td>
+                                            <td class="text-right align-middle">283511</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">8</td>
+                    <td>LAMPUNG</td>
+
+                                            <td class="text-right align-middle">2557810</td>
+                                            <td class="text-right align-middle">6642737</td>
+                                            <td class="text-right align-middle">159258</td>
+                                            <td class="text-right align-middle">556105</td>
+                                            <td class="text-right align-middle">807457</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">9</td>
+                    <td>KEPULAUAN BANGKA BELITUNG</td>
+
+                                            <td class="text-right align-middle">345632</td>
+                                            <td class="text-right align-middle">839454</td>
+                                            <td class="text-right align-middle">253108</td>
+                                            <td class="text-right align-middle">132470</td>
+                                            <td class="text-right align-middle">49912</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">10</td>
+                    <td>KEPULAUAN RIAU</td>
+
+                                            <td class="text-right align-middle">36752</td>
+                                            <td class="text-right align-middle">651434</td>
+                                            <td class="text-right align-middle">602348</td>
+                                            <td class="text-right align-middle">162770</td>
+                                            <td class="text-right align-middle">2535</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">11</td>
+                    <td>DKI JAKARTA</td>
+
+                                            <td class="text-right align-middle">0</td>
+                                            <td class="text-right align-middle">0</td>
+                                            <td class="text-right align-middle">0</td>
+                                            <td class="text-right align-middle">0</td>
+                                            <td class="text-right align-middle">0</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">12</td>
+                    <td>JAWA BARAT</td>
+
+                                            <td class="text-right align-middle">244995</td>
+                                            <td class="text-right align-middle">743929</td>
+                                            <td class="text-right align-middle">348260</td>
+                                            <td class="text-right align-middle">128017</td>
+                                            <td class="text-right align-middle">71637</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">13</td>
+                    <td>JAWA TENGAH</td>
+
+                                            <td class="text-right align-middle">5160</td>
+                                            <td class="text-right align-middle">491617</td>
+                                            <td class="text-right align-middle">85750</td>
+                                            <td class="text-right align-middle">90504</td>
+                                            <td class="text-right align-middle">19537</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">14</td>
+                    <td>DI YOGYAKARTA</td>
+
+                                            <td class="text-right align-middle">0</td>
+                                            <td class="text-right align-middle">5297</td>
+                                            <td class="text-right align-middle">246</td>
+                                            <td class="text-right align-middle">0</td>
+                                            <td class="text-right align-middle">0</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">15</td>
+                    <td>JAWA TIMUR</td>
+
+                                            <td class="text-right align-middle">1059894</td>
+                                            <td class="text-right align-middle">3872134</td>
+                                            <td class="text-right align-middle">2212151</td>
+                                            <td class="text-right align-middle">2042032</td>
+                                            <td class="text-right align-middle">280367</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">16</td>
+                    <td>BANTEN</td>
+
+                                            <td class="text-right align-middle">0</td>
+                                            <td class="text-right align-middle">2134</td>
+                                            <td class="text-right align-middle">423</td>
+                                            <td class="text-right align-middle">0</td>
+                                            <td class="text-right align-middle">0</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">17</td>
+                    <td>BALI</td>
+
+                                            <td class="text-right align-middle">51165</td>
+                                            <td class="text-right align-middle">41410</td>
+                                            <td class="text-right align-middle">2408</td>
+                                            <td class="text-right align-middle">316</td>
+                                            <td class="text-right align-middle">0</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">18</td>
+                    <td>NUSA TENGGARA BARAT</td>
+
+                                            <td class="text-right align-middle">1220500</td>
+                                            <td class="text-right align-middle">3544094</td>
+                                            <td class="text-right align-middle">1623911</td>
+                                            <td class="text-right align-middle">4975536</td>
+                                            <td class="text-right align-middle">1155451</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">19</td>
+                    <td>NUSA TENGGARA TIMUR</td>
+
+                                            <td class="text-right align-middle">3486993</td>
+                                            <td class="text-right align-middle">8810217</td>
+                                            <td class="text-right align-middle">6546923</td>
+                                            <td class="text-right align-middle">5342001</td>
+                                            <td class="text-right align-middle">1904876</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">20</td>
+                    <td>KALIMANTAN BARAT</td>
+
+                                            <td class="text-right align-middle">43554165</td>
+                                            <td class="text-right align-middle">71642105</td>
+                                            <td class="text-right align-middle">2159837</td>
+                                            <td class="text-right align-middle">14652006</td>
+                                            <td class="text-right align-middle">6936347</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">21</td>
+                    <td>KALIMANTAN TENGAH</td>
+
+                                            <td class="text-right align-middle">34182439</td>
+                                            <td class="text-right align-middle">216133847</td>
+                                            <td class="text-right align-middle">2313223</td>
+                                            <td class="text-right align-middle">909031</td>
+                                            <td class="text-right align-middle">160507</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">22</td>
+                    <td>KALIMANTAN SELATAN</td>
+
+                                            <td class="text-right align-middle">15447181</td>
+                                            <td class="text-right align-middle">19994430</td>
+                                            <td class="text-right align-middle">241705</td>
+                                            <td class="text-right align-middle">1277416</td>
+                                            <td class="text-right align-middle">55191</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">23</td>
+                    <td>KALIMANTAN TIMUR</td>
+
+                                            <td class="text-right align-middle">7029802</td>
+                                            <td class="text-right align-middle">12852068</td>
+                                            <td class="text-right align-middle">779825</td>
+                                            <td class="text-right align-middle">436334</td>
+                                            <td class="text-right align-middle">65065</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">24</td>
+                    <td>KALIMANTAN UTARA</td>
+
+                                            <td class="text-right align-middle">198190</td>
+                                            <td class="text-right align-middle">1112651</td>
+                                            <td class="text-right align-middle">269849</td>
+                                            <td class="text-right align-middle">268889</td>
+                                            <td class="text-right align-middle">41129</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">25</td>
+                    <td>SULAWESI UTARA</td>
+
+                                            <td class="text-right align-middle">4008</td>
+                                            <td class="text-right align-middle">340325</td>
+                                            <td class="text-right align-middle">6645</td>
+                                            <td class="text-right align-middle">7845</td>
+                                            <td class="text-right align-middle">12362</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">26</td>
+                    <td>SULAWESI TENGAH</td>
+
+                                            <td class="text-right align-middle">340958</td>
+                                            <td class="text-right align-middle">871489</td>
+                                            <td class="text-right align-middle">239088</td>
+                                            <td class="text-right align-middle">189930</td>
+                                            <td class="text-right align-middle">227631</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">27</td>
+                    <td>SULAWESI SELATAN</td>
+
+                                            <td class="text-right align-middle">120671</td>
+                                            <td class="text-right align-middle">818516</td>
+                                            <td class="text-right align-middle">116939</td>
+                                            <td class="text-right align-middle">24297</td>
+                                            <td class="text-right align-middle">43587</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">28</td>
+                    <td>SULAWESI TENGGARA</td>
+
+                                            <td class="text-right align-middle">788725</td>
+                                            <td class="text-right align-middle">1620921</td>
+                                            <td class="text-right align-middle">216246</td>
+                                            <td class="text-right align-middle">68205</td>
+                                            <td class="text-right align-middle">97592</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">29</td>
+                    <td>GORONTALO</td>
+
+                                            <td class="text-right align-middle">16930</td>
+                                            <td class="text-right align-middle">189475</td>
+                                            <td class="text-right align-middle">5612</td>
+                                            <td class="text-right align-middle">6519</td>
+                                            <td class="text-right align-middle">5393</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">30</td>
+                    <td>SULAWESI BARAT</td>
+
+                                            <td class="text-right align-middle">55088</td>
+                                            <td class="text-right align-middle">153410</td>
+                                            <td class="text-right align-middle">30576</td>
+                                            <td class="text-right align-middle">62055</td>
+                                            <td class="text-right align-middle">40314</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">31</td>
+                    <td>MALUKU</td>
+
+                                            <td class="text-right align-middle">506543</td>
+                                            <td class="text-right align-middle">2511141</td>
+                                            <td class="text-right align-middle">1824612</td>
+                                            <td class="text-right align-middle">1105080</td>
+                                            <td class="text-right align-middle">1073419</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">32</td>
+                    <td>MALUKU UTARA</td>
+
+                                            <td class="text-right align-middle">7548</td>
+                                            <td class="text-right align-middle">238113</td>
+                                            <td class="text-right align-middle">9770</td>
+                                            <td class="text-right align-middle">8317</td>
+                                            <td class="text-right align-middle">15412</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">33</td>
+                    <td>PAPUA BARAT</td>
+
+                                            <td class="text-right align-middle">192028</td>
+                                            <td class="text-right align-middle">898894</td>
+                                            <td class="text-right align-middle">2701410</td>
+                                            <td class="text-right align-middle">4542</td>
+                                            <td class="text-right align-middle">368979</td>
+                                    </tr>
+
+                            <tr>
+                    <td class="text-center align-middle">34</td>
+                    <td>PAPUA</td>
+
+                                            <td class="text-right align-middle">4652415</td>
+                                            <td class="text-right align-middle">6646052</td>
+                                            <td class="text-right align-middle">1803978</td>
+                                            <td class="text-right align-middle">1600134</td>
+                                            <td class="text-right align-middle">858424</td>
+                                    </tr>
+
+                    </tbody>
+
+
+
+    </table>
+
+</body>
+
+</html>
