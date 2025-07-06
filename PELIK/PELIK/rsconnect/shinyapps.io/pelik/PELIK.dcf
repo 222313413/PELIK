@@ -5,7 +5,7 @@ account: pelik
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 15037516
-bundleId: 10574107
+bundleId: 10574223
 url: https://pelik.shinyapps.io/PELIK/
 version: 1
 asMultiple: FALSE

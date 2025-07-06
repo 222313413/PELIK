@@ -785,22 +785,29 @@ ui <- dashboardPage(
                                                         p("Tonton video penjelasan singkat tentang fitur-fitur dashboard ini:", 
                                                           style = "font-family: 'Poppins', sans-serif; color: #4a5568; margin-bottom: 20px;"),
                                                         
-                                                        # Video lokal - GUNAKAN tags$video bukan tags$iframe
-                                                        tags$video(
-                                                          src = "Pelik.mp4", # File video di folder www/
-                                                          poster = "thumbnail.png", # Gambar thumbnail
+                                                        # Video Perkenalan
+                                                        tags$iframe(
                                                           width = "100%",
                                                           height = "400",
-                                                          controls = TRUE, # Menampilkan kontrol play/pause
-                                                          autoplay = FALSE, # PENTING: Set FALSE agar tidak auto-play
-                                                          muted = FALSE, # Set FALSE agar tidak mute
-                                                          loop = FALSE, # Set FALSE agar tidak berulang
-                                                          preload = "metadata", # Hanya load metadata, bukan seluruh video
-                                                          style = "max-width: 800px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); object-fit: cover;",
-                                                          
-                                                          # Fallback text jika browser tidak mendukung video
-                                                          "Browser Anda tidak mendukung pemutaran video HTML5."
+                                                          src = "https://www.youtube.com/embed/YoAdGQ2-hX0?rel=0", # Embed URL YouTube
+                                                          title = "YouTube video",
+                                                          frameborder = "0",
+                                                          allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+                                                          allowfullscreen = NA,
+                                                          style = "max-width: 800px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"
                                                         ),
+                                                        
+                                                        # Link Download PDF User Guide
+                                                        div(style = "margin-top: 25px; padding: 15px; background-color: #f8f9fa; border-radius: 8px; border-left: 4px solid #007bff;",
+                                                            p("📚 Butuh panduan lengkap? Download user guide dalam format PDF:", 
+                                                              style = "font-family: 'Poppins', sans-serif; color: #495057; margin-bottom: 15px; font-weight: 500;"),
+                                                            
+                                                            downloadButton("downloadPDF", 
+                                                                           label = "📥 Download User Guide PELIK (PDF)",
+                                                                           style = "background-color: #007bff; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-family: 'Poppins', sans-serif; font-weight: 500; cursor: pointer; box-shadow: 0 2px 4px rgba(0,123,255,0.2);",
+                                                                           class = "btn-primary")
+                                                        )
+                                                        
                                                       
                                                     )
                                                 )
@@ -1872,6 +1879,28 @@ server <- function(input, output, session) {
     }
   }, server = FALSE)
   
+  
+  # Di dalam server function
+  output$downloadPDF <- downloadHandler(
+    filename = function() {
+      # Nama file yang akan didownload
+      "User Guide PELIK.pdf"
+    },
+    content = function(file) {
+      # Path ke file PDF di folder www
+      # Ganti "nama_file.pdf" dengan nama file PDF Anda yang sebenarnya
+      pdf_path <- file.path("www", "User Guide PELIK.pdf")
+      
+      # Cek apakah file ada
+      if (file.exists(pdf_path)) {
+        file.copy(pdf_path, file)
+      } else {
+        # Jika file tidak ditemukan, buat file kosong atau berikan pesan error
+        stop("File PDF tidak ditemukan di folder www")
+      }
+    },
+    contentType = "application/pdf"
+  )
   
 } # Tutup fungsi server
 
